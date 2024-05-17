@@ -1,11 +1,11 @@
 ---
 title: 概述
-description: Here's where your user finds out if your project is for them.
+description: 
 weight: 1
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+简单的介绍
 {{% /pageinfo %}}
 
 
@@ -13,11 +13,11 @@ The Overview is where your users find out about your project. Depending on the s
 
 Try answering these questions for your user in this page:
 
-## What is it?
+## 为什么开发此工具?
 
-Introduce your project, including what it does or lets you do, why you would use it, and its primary goal (and how it achieves it). This should be similar to your README description, though you can go into a little more detail here if you want.
 
-## Why do I want it?
+
+## 工具实现了什么功能?
 
 Help your user know if your project will help them. Useful information can include:
 
@@ -27,7 +27,7 @@ Help your user know if your project will help them. Useful information can inclu
 
 * **What is it *not yet* good for?**: Highlight any useful features that are coming soon.
 
-## Where should I go next?
+## 接下来要做什么?
 
 Give your users next steps from the Overview. For example:
 
